@@ -104,4 +104,4 @@ Analyse the Sleep disorder dataset to explore the machine learning algorithms an
 
 # Conclusion
     
-By leveraging machine learning techniques to predict sleep disorders based on reported symptoms, this project aims to assist healthcare professionals in early identification and intervention, ultimately improving the management and treatment of sleep-related conditions.
+By leveraging machine learning techniques to predict sleep disorders based on reported symptoms, from this project the best acccuracy, I have got is 94.61% for Random Forest after tuning parameters using Gridsearch CV which aims to assist healthcare professionals in early identification and intervention, ultimately improving the management and treatment of sleep-related conditions.
