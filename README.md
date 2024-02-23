@@ -11,7 +11,7 @@ This project aims to develop a machine learning model that predicts sleep disord
 
 Analyse the Sleep disorder dataset to explore the machine learning algorithms and build Machine Learning model to predict the disease.
 
-# Roadmap to create ML model
+# Flowchart to create ML model
           _______________________________________________
         |                                               |
         |              Sleep Disorder Prediction        |
